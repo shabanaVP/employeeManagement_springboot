@@ -1,0 +1,46 @@
+.center
+{
+	text-align: center;
+	
+}
+.card{
+	border: 1px solid#104f55 ;
+}
+
+.navbar{
+	background-color:32746d;
+}
+.card-text1{
+	text-align: center;
+	font-weight: bold;
+}
+.card-text{
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+}
+.background{
+background-color:9ec5ab;
+}
+.card2{
+	margin: 0 auto; 
+	float: none; 
+	margin-bottom: 10px; 
+}
+.mystyle {
+    width: 100%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+}
+.center3{
+	
+	margin-top: 43;
+	margin-left: 400;
+}
+.center1 {
+    text-align: center;
+    margin-left: 255;
+    margin-top: 50;
+}
